@@ -1,0 +1,29 @@
+
+
+.poke-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 300px;
+    height: 300px;
+    left:0;
+    right: 0;
+    margin:auto;
+    margin-top:64px;
+    border: solid black 1px;
+}
+.poke-card p{
+    text-align: center;
+}
+.poke-card img{
+    width: 120px;
+    height: 120px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.search-container{
+    display: flex;
+    justify-content: center;
+}
